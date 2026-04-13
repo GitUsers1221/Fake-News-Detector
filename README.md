@@ -20,12 +20,18 @@ A Flask-based API that detects whether a news headline is **REAL or FAKE** using
 ## 🏗️ Project Structure
 
 fake-news-detector/
-│── app.py
+
+ │── app.py 
+ 
 │── requirements.txt
-│── README.md
-│── model/
-│   ├── fake_news_model.h5
-│   ├── tokenizer.pkl
+ 
+ │── README.md
+ 
+ │── model/
+ 
+ │   ├── fake_news_model.h5
+ 
+ │   ├── tokenizer.pkl
 
 ---
 
